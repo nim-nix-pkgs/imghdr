@@ -11,7 +11,6 @@
   inputs.src-imghdr-master.ref   = "refs/heads/master";
   inputs.src-imghdr-master.owner = "achesak";
   inputs.src-imghdr-master.repo  = "nim-imghdr";
-  inputs.src-imghdr-master.dir   = "";
   inputs.src-imghdr-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
