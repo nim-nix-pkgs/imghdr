@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031925,
-        "narHash": "sha256-zrNaEgGFbVsnE2kbmIyFT69KiipXH5ORsSwFw+k081Y=",
+        "lastModified": 1658201485,
+        "narHash": "sha256-n1hivnffn1KwQWhIdFAhulHtoh1CTwkOq8xRh6Zwrlw=",
         "owner": "nim-nix-pkgs",
         "repo": "imghdr",
-        "rev": "94a631d2fc555f1c67063c1a0b42d5398b5d0a7f",
+        "rev": "1b6115d3754cd5e33b31d6bf8d1b8bdaffdea5e2",
         "type": "github"
       },
       "original": {
